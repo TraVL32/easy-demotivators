@@ -5,7 +5,7 @@
 ## Установка
 
 ```bash
-pip install git+https://github.com/<you>/demotivator.git
+pip install git+https://github.com/TraVL32/demotivator.git
 ```
 
 ## Использование
